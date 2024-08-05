@@ -17,6 +17,11 @@ html {
 .purple {
   color: var(--imp-text-color) !important;
 }
+.custom-heading {
+  color: #3498db; /* Change this to your desired color */
+  font-size: 2rem; /* Adjust the size as needed */
+}
+
 
 button:focus {
   box-shadow: none !important;
