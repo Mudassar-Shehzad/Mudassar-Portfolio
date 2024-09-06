@@ -1,7 +1,7 @@
 # Portfolio Website - Mudassar Shehzad
 
-![Portfolio Preview](https://yourportfolioimageurl.com)  
-_A screenshot or logo of your portfolio can be added here._
+![Portfolio Preview](![image](https://github.com/user-attachments/assets/538e2654-ad4f-4185-b94f-1feca3f1c676)
+)  
 
 ## 📝 Introduction
 
