@@ -1,7 +1,5 @@
 # Portfolio Website - Mudassar Shehzad
 
-![Portfolio Preview](![image](https://github.com/user-attachments/assets/538e2654-ad4f-4185-b94f-1feca3f1c676)
-)  
 
 ## 📝 Introduction
 
@@ -39,3 +37,16 @@ Follow these steps to clone and run the portfolio on your local machine:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Mudassar-Shehzad/Mudassar-Portfolio.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd Mudassar-Portfolio
+
+3. Install dependencies:
+   ```bash
+   npm install
+
+4. Run the development server:
+
+   ```bash
+   npm run dev
