@@ -10,8 +10,6 @@ Welcome to my personal portfolio repository! This site showcases my skills and t
 - **Responsive Design**: Adjusts seamlessly across various device screens.
 - **Modern UI/UX**: Clean and simple user interface for ease of navigation.
 - **Reusable Components**: Built with React's reusable components structure.
-- **Interactive Projects**: Includes exciting JavaScript games and applications.
-- **Firebase Backend**: Integrated real-time database and authentication.
 - **Hosted on Vercel**: Automatically deployed with every code update.
 
 ## 💻 Technologies Used
