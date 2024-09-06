@@ -49,4 +49,4 @@ Follow these steps to clone and run the portfolio on your local machine:
 4. Run the development server:
 
    ```bash
-   npm run dev
+   npm run start
