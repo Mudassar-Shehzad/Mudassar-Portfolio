@@ -38,7 +38,7 @@ Follow these steps to clone and run the portfolio on your local machine:
 
 2. Navigate to the project directory:
    ```bash
-   cd Mudassar-Portfolio
+   cd Portfolio
 
 3. Install dependencies:
    ```bash
